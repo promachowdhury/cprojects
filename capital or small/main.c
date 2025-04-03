@@ -11,8 +11,9 @@ int main()
 
     else if(ch>='A'&& ch<='Z')
        printf ("Capital letter");
-}
+
     else
         printf("Not a letter");
     return 0;
 
+}
